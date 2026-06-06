@@ -124,7 +124,7 @@ Experimental comparison of pre-trained model vs model initialized randomly on th
 
 - LinkedIn: [[linkedin](https://ir.linkedin.com/in/amirmehdi-golkhosravi-8378a6288)]
     
-- Email: [amirmehdi.student@gmail.com]
+- Email: [a.golkhosravi.student@gmail.com]
     
 
 Feel free to reach out if you'd like to discuss software development, networking, cybersecurity, or potential collaboration opportunities.
